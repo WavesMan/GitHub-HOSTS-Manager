@@ -1,0 +1,12 @@
+# subprocess
+# ctypes
+# sys
+# os
+# tkinter
+# webbrowser
+darkdetect
+requests
+# logging
+# shutil
+# json
+# platform

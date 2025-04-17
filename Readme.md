@@ -1,9 +1,6 @@
-根据最佳实践和项目需求，我为您设计了以下专业级README模板，结合Nuitka打包特性和GUI应用特点：
-
----
 
 # GitHub Hosts Manager 🚀
-[![License](https://img.shields.io/badge/license-GPLv2.0-green)](LICENSE)
+[![License](https://img.shields.io/badge/license-GPLv2.0-green)](License)
 ![Platform](https://img.shields.io/badge/platform-Windows%2011%20|%2010-blue)
 
 *实时更新GitHub域名解析的桌面管理工具（支持Windows 11/10）*
